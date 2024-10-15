@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🎓 AI Graduate from Faculty of Computers and AI, Cairo University (2024)
 - 💻 Passionate about Machine Learning, Deep Learning, and NLP , Data Science , Data Analysis
 - 🔬 Experienced in projects like Sentiment Analysis, Autoencoders, and Reinforcement Learning , Deep Learning , Data Analysis
-- 🛠️ Skills: Python, TensorFlow, Keras, Hugging Face, Power BI
+- 🛠️ Skills: Python, TensorFlow, Keras, Hugging Face, Power BI ,SQL , Java , C++ , HTML , CSS , JavaSript , Microsoft Office, Excel, Advanced Excel
 
 
 ![Profile View](https://visitor-badge.laobi.icu/badge?page_id=Sameh20200218AI&label=Profile%20Views)
