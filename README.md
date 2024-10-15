@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋,I’m Sameh Raouf
 
 <!--
 **Sameh20200218AI/Sameh20200218AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🎓 AI Graduate from Faculty of Computers and AI, Cairo University (2024)
+- 💻 Passionate about Machine Learning, Deep Learning, and NLP , Data Science , Data Analysis
+- 🔬 Experienced in projects like Sentiment Analysis, Autoencoders, and Reinforcement Learning , Deep Learning , Data Analysis
+- 🛠️ Skills: Python, TensorFlow, Keras, Hugging Face, Power BI
