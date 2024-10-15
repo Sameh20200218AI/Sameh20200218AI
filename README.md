@@ -42,3 +42,26 @@ Here are some ideas to get you started:
 
 
 
+# Hello, I'm Sameh Raouf 👋
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Sameh20200218AI&label=Profile%20Views)
+
+## GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sameh20200218AI&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameh20200218AI&layout=compact&theme=radical)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Sameh20200218AI&theme=onedark)
+
+## Connect with me:
+
+- 📧 Email: [sameh20200218@gmail.com](mailto:sameh20200218@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameh-raouf-248591252)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sameh20200218AI)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/samehraouf)
+
+## Social Stats:
+![GitHub followers](https://img.shields.io/github/followers/Sameh20200218AI?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Sameh20200218AI?label=Stars&style=social)
+
+
