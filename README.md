@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # Hello, I'm Sameh Raouf 👋
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Sameh20200218AI)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Sameh20200218AI&label=Profile%20Views)
 
 ## GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sameh20200218AI&show_icons=true&theme=radical)
