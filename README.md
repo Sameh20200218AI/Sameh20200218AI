@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 💻 Passionate about Machine Learning, Deep Learning, and NLP , Data Science , Data Analysis
 - 🔬 Experienced in projects like Sentiment Analysis, Autoencoders, and Reinforcement Learning , Deep Learning , Data Analysis
 - 🛠️ Skills: Python, TensorFlow, Keras, Hugging Face, Power BI
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Sameh20200218AI)
