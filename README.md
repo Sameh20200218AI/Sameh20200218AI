@@ -19,26 +19,10 @@ Here are some ideas to get you started:
 - 🔬 Experienced in projects like Sentiment Analysis, Autoencoders, and Reinforcement Learning , Deep Learning , Data Analysis
 - 🛠️ Skills: Python, TensorFlow, Keras, Hugging Face, Power BI
 
-# Hello, I'm Sameh Raouf 👋
 
 ![Profile View](https://visitor-badge.laobi.icu/badge?page_id=Sameh20200218AI&label=Profile%20Views)
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSameh20200218AI%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 
-
-## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sameh20200218AI&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameh20200218AI&layout=compact&theme=radical)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Sameh20200218AI&theme=onedark)
-
-## Social Stats:
-![GitHub followers](https://img.shields.io/github/followers/Sameh20200218AI?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Sameh20200218AI?label=Stars&style=social)
-![GitHub forks](https://img.shields.io/github/forks/Sameh20200218AI?label=Forks&style=social)
-
-
-# Hello, I'm Sameh Raouf 👋
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Sameh20200218AI&label=Profile%20Views)
 
