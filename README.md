@@ -38,3 +38,23 @@ Here are some ideas to get you started:
 ![GitHub forks](https://img.shields.io/github/forks/Sameh20200218AI?label=Forks&style=social)
 
 
+# Hello, I'm Sameh Raouf 👋
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Sameh20200218AI&label=Profile%20Views)
+
+## GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sameh20200218AI&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameh20200218AI&layout=compact&theme=radical)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Sameh20200218AI&theme=onedark)
+
+## Connect with me:
+
+- 📧 Email: [sameh20200218@gmail.com](mailto:samehraouf2000@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sameh-raouf](https://www.linkedin.com/in/sameh-raouf-248591252))
+- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]([https://www.kaggle.com/samehraouf](https://www.kaggle.com/samehraouf))
+
+
+
+
